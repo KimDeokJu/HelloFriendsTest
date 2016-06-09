@@ -1,5 +1,10 @@
-/**
- * Created by deok on 2016-06-09.
- */
 public class SoYoung {
+
+    public static void main(String[] args) {
+        doWork();
+    }
+
+    public static void doWork() {
+        System.out.println("나는야 야근라이더");
+    }
 }
